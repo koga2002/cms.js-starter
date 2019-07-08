@@ -11,8 +11,8 @@ var config = {
   // If Github mode is set, your Github username, repo name, 
   // and branch to get files from.
   github: {
-    username: 'yourusername',
-    repo: 'yourrepo',
+    username: 'koga2002',
+    repo: 'tpok2288',
     branch: 'gh-pages',
     host: 'https://api.github.com',
     // Use prefix option if your site is located in a subdirectory.
